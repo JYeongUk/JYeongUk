@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYeongUk&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?JYeongUk=anuraghazra&repo=github-readme-stats)](https://github.com/JYeongUk/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?JYeongUk=anuraghazra&repo=github-readme-stats)](https://github.com/JYeongUk)
 <!--
 **JYeongUk/JYeongUk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
