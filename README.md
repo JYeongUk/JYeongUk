@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYeongUk&show_icons=true&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?JYeongUk=dkssud8150&theme=nord_dark)
+
 <!--
 **JYeongUk/JYeongUk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
