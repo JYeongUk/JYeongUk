@@ -1,9 +1,13 @@
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JYeongUk&show_icons=true&theme=tokyonight)
 
+<details>
+  <img align="left" alt="JYeongUk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JYeongUk&show_icons=true&theme=tokyonight&hide_border=true">
+</details>
 
 <!--
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JYeongUk&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYeongUk&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYeongUk&layout=compact&theme=tokyonight)](https://github.com/JYeongUk)
