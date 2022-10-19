@@ -5,6 +5,7 @@
 ## 👨‍💻 I'm a Backend developer!!
 
 - 🌱 I’m currently learning everything
+- 🔥 I hope to develop every awesome things
 
 <br />
 
