@@ -21,7 +21,7 @@
 
 ### 💻 Languages and Tools:
 
-<img align="left" alt="JAVA" width="26px" pointer-events="none" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="padding-right:10px;" />
+<img align="left" alt="JAVA" width="26px" pointer-events="none" src="https://w.namu.la/s/95f3898eb4996f6ba5a3930b212b295da56e062e9427da87331a510d3d868bd81f24d10d242ca0d93f4ad94053b9321549cb4590ea815a8d39ba92cde1a7da44e06fd9d8f23ce4606d648c8bc25e35a375189cab8d8fe24f5cb79122d3002f4c" style="padding-right:10px;" />
 <img align="left" alt="SPRING" width="26px" pointer-events="none" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/spring/spring.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" pointer-events="none" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" pointer-events="none" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
