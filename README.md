@@ -8,30 +8,23 @@
 - 🔥 I hope to develop every awesome things
 
 <br />
+<br />
 
 ### 📫 Connect with me:
 
-[<img align="left" alt="gmail" width="26px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" style="padding-right:10px;" />][gmail]
-[<img align="left" alt="velog" width="26px" src="https://static.velog.io/favicon.ico" style="padding-right:10px;" />][velog]
-[<img align="left" alt="twitter" width="26px" src="https://abs.twimg.com/favicons/twitter.2.ico" style="padding-right:10px;" />][twitter]
+[<img align="left" alt="gmail" width="40px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" style="padding-right:10px;" />][gmail]
+[<img align="left" alt="velog" width="40px" src="https://static.velog.io/favicon.ico" style="padding-right:10px;" />][velog]
+[<img align="left" alt="twitter" width="40px" src="https://abs.twimg.com/favicons/twitter.2.ico" style="padding-right:10px;" />][twitter]
+[<img align="left" alt="linkedin" width="40px" src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" style="padding-right:10px;" />][linkedin]
 
+<br />
 <br />
 <br />
 <br />
 
 ### 💻 Languages and Tools:
 
-<img align="left" alt="JAVA" width="26px" pointer-events="none" src="https://w.namu.la/s/95f3898eb4996f6ba5a3930b212b295da56e062e9427da87331a510d3d868bd81f24d10d242ca0d93f4ad94053b9321549cb4590ea815a8d39ba92cde1a7da44e06fd9d8f23ce4606d648c8bc25e35a375189cab8d8fe24f5cb79122d3002f4c" style="padding-right:10px;" />
-<img align="left" alt="SPRING" width="26px" pointer-events="none" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/spring/spring.png" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" pointer-events="none" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" pointer-events="none" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" pointer-events="none" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" pointer-events="none" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="idea" width="26px" pointer-events="none" src="https://www.jetbrains.com/idea/img/idea-edu.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" pointer-events="none" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-[<img align="left" alt="GitHub" width="26px" pointer-events="none" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/JYeongUk#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" pointer-events="none" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/JYeongUk#gh-light-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,idea,vscode)](https://skillicons.dev)
 
 <br />
 <br />
@@ -39,12 +32,14 @@
 
 ### ⚡My Stats:
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=JYeongUk&show_icons=true&hide_border=true" width="350"></a>
+<a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=JYeongUk&show_icons=true&hide_border=true" /></a>
+<a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYeongUk&hide=html&layout=compact&hide_border=true" /></a>
 <br />
 
 [gmail]: mailto:young1uk2@gmail.com
 [velog]: https://velog.io/@ukukuk2
 [twitter]: https://twitter.com/YeongUkJ
+[linkedin]: https://www.linkedin.com/in/%EC%98%81%EC%9A%B1-%EC%9E%A5-54990621b/
 
 <!--
 **alexandresanlim/alexandresanlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
