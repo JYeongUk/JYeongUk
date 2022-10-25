@@ -24,7 +24,7 @@
 
 ### 💻 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,idea,vscode&theme=light)](https://skillicons.dev)
 
 <br />
 <br />
