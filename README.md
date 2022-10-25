@@ -32,8 +32,8 @@
 
 ### ⚡My Stats:
 
-<a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=JYeongUk&show_icons=true&hide_border=true" /></a>
-<a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYeongUk&hide=html&layout=compact&hide_border=true" /></a>
+<a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=JYeongUk&show_icons=true" /></a>
+<a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYeongUk&hide=html&layout=compact" /></a>
 <br />
 
 [gmail]: mailto:young1uk2@gmail.com
