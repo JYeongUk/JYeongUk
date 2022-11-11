@@ -36,7 +36,7 @@
 <a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYeongUk&hide=html&layout=compact" /></a>
 <br />
 
-[gmail]: mailto:young1uk2@gmail.com
+[gmail]: mailto:devukukuk@gmail.com
 [velog]: https://velog.io/@ukukuk2
 [twitter]: https://twitter.com/YeongUkJ
 [linkedin]: https://www.linkedin.com/in/%EC%98%81%EC%9A%B1-%EC%9E%A5-54990621b/
