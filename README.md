@@ -14,8 +14,10 @@
 
 [<img align="left" alt="gmail" width="40px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" style="padding-right:10px;" />][gmail]
 [<img align="left" alt="velog" width="40px" src="https://static.velog.io/favicon.ico" style="padding-right:10px;" />][velog]
+<!--
 [<img align="left" alt="twitter" width="40px" src="https://abs.twimg.com/favicons/twitter.2.ico" style="padding-right:10px;" />][twitter]
 [<img align="left" alt="linkedin" width="40px" src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" style="padding-right:10px;" />][linkedin]
+-->
 
 <br />
 <br />
